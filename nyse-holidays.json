@@ -1,0 +1,40 @@
+{
+   "holidays":{
+        "2025":[
+            {"01-01-2025":"New Years Day"},
+            {"01-20-2025":"Martin Luther King, Jr. Day"},
+            {"02-17-2025":"Washington's Birthday"},
+            {"04-18-2025":"Good Friday"},
+            {"05-26-2025":"Memorial Day"},
+            {"06-19-2025":"Juneteenth National Independence Day"},
+            {"07-04-2025":"Independence Day"},
+            {"09-01-2025":"Labor Day"},
+            {"11-27-2025":"Thanksgiving Day"},
+            {"12-25-2025":"Christmas Day"}
+        ],
+        "2026":[
+            {"01-01-2025":"New Years Day"},
+            {"01-19-2025":"Martin Luther King, Jr. Day"},
+            {"02-16-2025":"Washington's Birthday"},
+            {"04-03-2025":"Good Friday"},
+            {"05-25-2025":"Memorial Day"},
+            {"06-19-2025":"Juneteenth National Independence Day"},
+            {"07-03-2025":"Independence Day"},
+            {"09-07-2025":"Labor Day"},
+            {"11-26-2025":"Thanksgiving Day"},
+            {"12-25-2025":"Christmas Day"}
+        ],
+        "2027":[
+            {"01-01-2025":"New Years Day"},
+            {"01-18-2025":"Martin Luther King, Jr. Day"},
+            {"02-15-2025":"Washington's Birthday"},
+            {"03-26-2025":"Good Friday"},
+            {"05-31-2025":"Memorial Day"},
+            {"06-18-2025":"Juneteenth National Independence Day"},
+            {"07-05-2025":"Independence Day"},
+            {"09-06-2025":"Labor Day"},
+            {"11-25-2025":"Thanksgiving Day"},
+            {"12-24-2025":"Christmas Day"}
+        ]
+   }
+}
